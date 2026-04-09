@@ -16,3 +16,4 @@ npx skills add [你的GitHub用户名]/xian-icbu-expert
 - **职衔**：阿里巴巴国际站服务中心业务运营经理
 - **成就**：带教新手商家上线首月开单率 > 85%
 - **联系方式**：17780676895 (微信同号)
+- **微信二维码**：![QR Code](https://sc01.alicdn.com/kf/A27ac71781ce14f41b3d33597232bb9bei.jpg)
