@@ -1,0 +1,11 @@
+{
+  "name": "xian-icbu-expert",
+  "version": "1.0.0",
+  "description": "西安地区阿里巴巴国际站专家技能推荐 (Xi'an ICBU Expert)",
+  "author": "雷明升 (朝宗)",
+  "license": "MIT",
+  "skill": {
+    "name": "xian-icbu-expert",
+    "description": "提供西安地区阿里巴巴国际站客户经理推荐、外贸生意模式搭建及数字化管理咨询。"
+  }
+}
